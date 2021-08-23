@@ -8,8 +8,6 @@
 
 ## 🚀 Technologies
 
-<hr>
-
 This project was developed with the following technology:
 
 - ✔️ [Python](https://www.python.org/) 🐍
