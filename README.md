@@ -6,9 +6,10 @@
 <img alt="Readme" title="Readme" src="./github/Readme-gif.gif"/> 
 </h1>
 
+## Clone this repository
+
 ```
-# Clone this repository
-$ git clone git@github.com:Joao-Paul0/SystemOfBankSimple.git
+git clone git@github.com:Joao-Paul0/SystemOfBankSimple.git
 ```
 
 ## 🚀 Technologies
